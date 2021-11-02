@@ -1,9 +1,9 @@
 #! /bin/bash
 
 
-# Make sure there is a ~/jiraissues.csv file in your home directory
+# Make sure a jiraissues.csv file is available
 # Format of the file should be like this
-# KEY-1,2h,02/06/2021
+# 02/06/2021,KEY-1,2h 30m,I did this
 # Just run the script
 
 while read line
